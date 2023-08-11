@@ -21,10 +21,6 @@ public class TestResultParser {
         return doParse(testFilePath.toString());
     }
 
-    private int findNumberOf(String str){
-        return new Scanner(str).useDelimiter("\\D+").nextInt();
-    }
-
     private TestResult doParse(String testFilePath){
 
         File testReportFile = new File(testFilePath);
@@ -55,5 +51,9 @@ public class TestResultParser {
         }
 
         return testResult;
+    }
+
+    private int findNumberOf(String str){
+        return new Scanner(str).useDelimiter("\\D+").nextInt();
     }
 }
