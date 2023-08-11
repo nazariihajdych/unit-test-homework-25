@@ -1,4 +1,4 @@
-DATE-TIME: 11.08.2023-18:58:0466
+DATE-TIME: 11.08.2023-19:45:0993
 [36m╷[0m
 [36m├─[0m [36mJUnit Jupiter[0m [32m✔[0m
 [36m│  ├─[0m [36mSimpleMathLibraryTest[0m [32m✔[0m

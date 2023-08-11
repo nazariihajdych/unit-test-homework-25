@@ -20,7 +20,7 @@ public class Main {
         projectTestRunner.runTestByNames("ua.ithillel.test.tests.SimpleMathLibraryTest", "ua.ithillel.test.tests.ArraysMethodsTest");
         projectTestRunner.runTestByPackage("ua.ithillel.test");
 
-        String testFileReportPath = ("");
+        String testFileReportPath = ("/Users/nazar/IdeaProjects/homework-26-unit-tests/src/java/ua/ithillel/test/testReports/test_11.08.2023-19:45:0993.txt");
 
         TestResultParser testResultParser = new TestResultParser();
         System.out.println(testResultParser.parser(testFileReportPath));
