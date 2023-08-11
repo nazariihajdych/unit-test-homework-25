@@ -1,0 +1,32 @@
+DATE-TIME: 11.08.2023-18:58:0466
+[36m╷[0m
+[36m├─[0m [36mJUnit Jupiter[0m [32m✔[0m
+[36m│  ├─[0m [36mSimpleMathLibraryTest[0m [32m✔[0m
+[36m│  │  ├─[0m [34maddTest_success()[0m [32m✔[0m
+[36m│  │  └─[0m [34msubtractTest_success()[0m [32m✔[0m
+[36m│  └─[0m [36mArraysMethodsTest[0m [32m✔[0m
+[36m│     ├─[0m [34mintsAfterLastFourthTest_throeException()[0m [32m✔[0m
+[36m│     ├─[0m [34mintsAfterLastFourthTest_success()[0m [32m✔[0m
+[36m│     ├─[0m [34mintsAfterLastFourthTest_returnNull()[0m [32m✔[0m
+[36m│     ├─[0m [34mcontainsOnlyOnesAndFours_success()[0m [32m✔[0m
+[36m│     ├─[0m [34mcontainsOnlyOnesAndFours_failedJustOtherDigits()[0m [32m✔[0m
+[36m│     ├─[0m [34mcontainsOnlyOnesAndFours_failedJustFour()[0m [32m✔[0m
+[36m│     └─[0m [34mcontainsOnlyOnesAndFours_failedJustOne()[0m [32m✔[0m
+[36m├─[0m [36mJUnit Vintage[0m [32m✔[0m
+[36m└─[0m [36mJUnit Platform Suite[0m [32m✔[0m
+
+Test run finished after 11 ms
+[         5 containers found      ]
+[         0 containers skipped    ]
+[         5 containers started    ]
+[         0 containers aborted    ]
+[         5 containers successful ]
+[         0 containers failed     ]
+[         9 tests found           ]
+[         0 tests skipped         ]
+[         9 tests started         ]
+[         0 tests aborted         ]
+[         9 tests successful      ]
+[         0 tests failed          ]
+
+
